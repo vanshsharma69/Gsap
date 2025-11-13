@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+ /* this is used for timeline  */
+/* #box1{
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+    overflow-x: hidden;
+}
+
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    overflow-x: hidden;
+}
+
+#box3{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    overflow-x: hidden;
+} */
+
+body{
+    background-color: black;
+    color: white;
+}
+
+#nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 50px;
+}
+
+#part2{
+    display: flex;
+    gap: 50px;
+}
